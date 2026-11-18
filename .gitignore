@@ -230,3 +230,4 @@ data/
 outputs/
 *.tif
 *.tiff
+!/relief.tif
